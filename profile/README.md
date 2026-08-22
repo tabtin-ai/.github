@@ -6,7 +6,7 @@
 
 <p align="center"><strong>你、搭子、Agent，在同一工作区里碰头。</strong></p>
 
-<p align="center">People and AI agents, working in the same space.</p>
+<p align="center">People, teammates, and Agents, meeting in one workspace.</p>
 
 <p align="center">
   <a href="https://www.tabtin.com/">官网</a> ·
